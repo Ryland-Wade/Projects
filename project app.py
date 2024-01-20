@@ -1,5 +1,4 @@
 import streamlit as st 
-import info 
 import requests
 import json
 st.title("Do They Border?")
